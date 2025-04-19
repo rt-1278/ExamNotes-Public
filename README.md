@@ -11,34 +11,34 @@
 * 例２）履歴一覧画面 > 試験名などを入力して検索 > 解答途中だった試験を再開する（実施済の試験の確認もできます。）
 ### 以下が上記の利用例１をより細かく記載した内容です。
 1. アプリを起動するとホーム画面が表示されます。画面内の「試験新規作成」ボタンを押下します。
-   </br><img alt="ホーム画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/e0edf160-2a2e-4504-a547-4738fae56236" width="30%">
+   </br><img alt="ホーム画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/ホーム画面.png" width="30%">
 2. 試験の情報を入力する画面が表示されます。「試験名」など試験に関連する情報を入力して「試験へ進む」ボタンを押下します。
-   </br><img alt="試験情報入力画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/c70596fc-05ac-44df-8795-b37680409c19" width="30%">
+   </br><img alt="試験情報入力画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/試験情報入力画面.png" width="30%">
 3. 確認モーダルが表示されますので「はい」を押下します。
-   </br><img alt="確認モーダル" src="https://github.com/rt-1278/ExamNotes/assets/138363122/b1c2ec3b-7dbb-4b12-901e-38cbe7cb5c71" width="30%">
+   </br><img alt="確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/確認モーダル.png" width="30%">
 4. 解答一覧画面が表示されます。解答一覧画面内の解答したい問題番号を押下します。
-   </br><img alt="解答一覧画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/230a1b9d-0aaf-4c17-a77f-45cac6cb569f" width="30%">
+   </br><img alt="解答一覧画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/解答一覧画面.png" width="30%">
 5. 解答画面が表示されます。画面内で「解答形式」の選択ができますので、問題ごとに解答形式を選択してから解答してください。
-   </br><img alt="解答画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/196dbe47-e671-4f43-aef7-b56dcea69a8b" width="30%">
-   </br><img alt="解答形式選択画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/107cdd91-6ff5-4c02-a948-82a0bb7f08a5" width="30%">
+   </br><img alt="解答画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/解答画面.png" width="30%">
+   </br><img alt="解答形式選択画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/解答形式選択画面.png" width="30%">
 6. 「解答形式」と「解答」を入力し、次の問題へ向かい、全ての問題を解答していきます。
-   </br><img alt="解答画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/85a0c18f-add3-4eab-99a5-efe26524b5d3" width="30%">
+   </br><img alt="解答画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/解答画面その２.png" width="30%">
 7. 解答が全て完了した状態で、解答一覧画面へ遷移します。そして、「試験を終了する」ボタンを押下します。
-   </br><img alt="解答一覧画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/e8976165-f322-4382-aa7f-d40c0526bb08" width="30%">
+   </br><img alt="解答一覧画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/解答一覧画面その２.png" width="30%">
 8. 確認モーダルが表示されますので「はい」を押下します。
-   </br><img alt="試験終了確認モーダル" src="https://github.com/rt-1278/ExamNotes/assets/138363122/7cb24f6a-b63a-4487-900b-c1167b8b7810" width="30%">
+   </br><img alt="試験終了確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/試験終了確認モーダル.png" width="30%">
 9. 試験を終了すると採点一覧画面へ遷移します。
-   </br><img alt="採点一覧画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/d31c6000-ce4f-44b7-bed9-eb963457bdd3" width="30%">
+   </br><img alt="採点一覧画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/採点一覧画面.png" width="30%">
 10. 採点一覧画面にて問題番号を押下すると、各問題番号に応じた採点画面が表示されます。
-    </br><img alt="採点画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/8cd6f75e-7190-4d31-a04f-6b5f7187db71" width="30%">
+    </br><img alt="採点画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/採点画面.png" width="30%">
 11. 採点画面にて、「解答結果」と「正誤」を入力します。
-    </br><img alt="採点画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/24c396f3-a0c7-443f-9b3c-0d3e962e9576" width="30%">
+    </br><img alt="採点画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/採点画面その２.png" width="30%">
 12. 全ての問題の「解答結果」と「正誤」を入力した状態で、採点一覧画面の「採点結果画面へ」のボタンを押下します。
-    </br><img alt="採点一覧画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/9f4a2381-5e00-489f-8e3f-8fe5de2c4744" width="30%">
+    </br><img alt="採点一覧画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/採点一覧画面.png" width="30%">
 13. 採点を終了するかの確認モーダルが表示されるので、「はい」を押下します。
-    </br><img alt="確認モーダル" src="https://github.com/rt-1278/ExamNotes/assets/138363122/ece78568-50c2-4b17-b1f7-ff00e4a5d666" width="30%">
+    </br><img alt="確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/確認モーダルその２.png" width="30%">
 14. 画面に採点結果が表示されます。各問題番号を押下することで、解答内容を確認することができます。
-    </br><img alt="採点結果画面" src="https://github.com/rt-1278/ExamNotes/assets/138363122/4428b427-c615-41c3-aa1c-95f93cdfd19c" width="30%">
+    </br><img alt="採点結果画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/採点結果画面.png" width="30%">
 
 ## 利用上の注意点
 ### 利用可能なデバイス
