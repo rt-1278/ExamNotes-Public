@@ -15,7 +15,7 @@
 2. 試験の情報を入力する画面が表示されます。「試験名」など試験に関連する情報を入力して「試験へ進む」ボタンを押下します。
    </br><img alt="試験情報入力画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/試験情報入力画面.png" width="30%">
 3. 確認モーダルが表示されますので「はい」を押下します。
-   </br><img alt="確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/確認モーダル.png" width="30%">
+   </br><img alt="確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/%E7%A2%BA%E8%AA%8D%E3%83%A2%E3%83%BC%E3%82%BF%E3%82%99%E3%83%AB.png" width="30%">
 4. 解答一覧画面が表示されます。解答一覧画面内の解答したい問題番号を押下します。
    </br><img alt="解答一覧画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/解答一覧画面.png" width="30%">
 5. 解答画面が表示されます。画面内で「解答形式」の選択ができますので、問題ごとに解答形式を選択してから解答してください。
@@ -26,7 +26,7 @@
 7. 解答が全て完了した状態で、解答一覧画面へ遷移します。そして、「試験を終了する」ボタンを押下します。
    </br><img alt="解答一覧画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/解答一覧画面その２.png" width="30%">
 8. 確認モーダルが表示されますので「はい」を押下します。
-   </br><img alt="試験終了確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/試験終了確認モーダル.png" width="30%">
+   </br><img alt="試験終了確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/%E8%A9%A6%E9%A8%93%E7%B5%82%E4%BA%86%E7%A2%BA%E8%AA%8D%E3%83%A2%E3%83%BC%E3%82%BF%E3%82%99%E3%83%AB.png" width="30%">
 9. 試験を終了すると採点一覧画面へ遷移します。
    </br><img alt="採点一覧画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/採点一覧画面.png" width="30%">
 10. 採点一覧画面にて問題番号を押下すると、各問題番号に応じた採点画面が表示されます。
@@ -36,7 +36,7 @@
 12. 全ての問題の「解答結果」と「正誤」を入力した状態で、採点一覧画面の「採点結果画面へ」のボタンを押下します。
     </br><img alt="採点一覧画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/採点一覧画面.png" width="30%">
 13. 採点を終了するかの確認モーダルが表示されるので、「はい」を押下します。
-    </br><img alt="確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/確認モーダルその２.png" width="30%">
+    </br><img alt="確認モーダル" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/%E7%A2%BA%E8%AA%8D%E3%83%A2%E3%83%BC%E3%82%BF%E3%82%99%E3%83%AB%E3%81%9D%E3%81%AE%EF%BC%92.png" width="30%">
 14. 画面に採点結果が表示されます。各問題番号を押下することで、解答内容を確認することができます。
     </br><img alt="採点結果画面" src="https://github.com/rt-1278/ExamNotes-Public/blob/main/採点結果画面.png" width="30%">
 
